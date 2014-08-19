@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Basic Formatting}{2}{section.1}
+\contentsline {subsection}{\numberline {1.1}Changing Fonts}{2}{subsection.1.1}
+\contentsline {subsection}{\numberline {1.2}Spacing, Centering, and Indentation}{2}{subsection.1.2}
+\contentsline {section}{\numberline {2}Advanced Environments}{3}{section.2}
+\contentsline {subsection}{\numberline {2.1}Figures}{3}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Tables}{3}{subsection.2.2}
+\contentsline {section}{\numberline {3}Common mistakes}{4}{section.3}
+\contentsline {section}{\numberline {4}Acknowledgments and where to learn more:}{4}{section.4}
